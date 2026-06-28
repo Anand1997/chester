@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/Anand1997/chester-core.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Anand1997/chester-fe.git
